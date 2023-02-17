@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Red_Point" id="Red_Point">
+	<SimpleField name="Field_2" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Folder><name>Red_Point</name>
+  <Placemark>
+	<name>Northwest Salamander </name>
+	<ExtendedData><SchemaData schemaUrl="#Red_Point">
+		<SimpleData name="Field_2">Nov 19, 2021 at 3:29 PM</SimpleData>
+		<SimpleData name="Field_1">Start temp 8 Light rain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.519758900705,49.274658676707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coastal Tailed</name>
+	<ExtendedData><SchemaData schemaUrl="#Red_Point">
+		<SimpleData name="Field_2">Nov 19, 2021 at 3:28 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.526237528018,49.2726882575204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roughskinned Newt</name>
+	<ExtendedData><SchemaData schemaUrl="#Red_Point">
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.534185310588,49.2725797812272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Red back</name>
+	<ExtendedData><SchemaData schemaUrl="#Red_Point">
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.530878846925,49.2734108405645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina</name>
+	<ExtendedData><SchemaData schemaUrl="#Red_Point">
+		<SimpleData name="Field_2">Nov 19, 2021 at 3:28 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.527220376887,49.2730100956146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Redback </name>
+	<ExtendedData><SchemaData schemaUrl="#Red_Point">
+		<SimpleData name="Field_2">Nov 19, 2021 at 6:28 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.522086851518,49.2748741367299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Redback </name>
+	<ExtendedData><SchemaData schemaUrl="#Red_Point">
+		<SimpleData name="Field_2">Nov 19, 2021 at 3:29 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.519963683265,49.2747346870782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dead Tree Frog</name>
+	<ExtendedData><SchemaData schemaUrl="#Red_Point">
+		<SimpleData name="Field_2">Nov 19, 2021 at 5:03 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.525703259293,49.2728430027403</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Photo</name>
+</Folder>
+<Folder><name>Red_Line</name>
+  <Placemark>
+	<name>Red Line 1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_Line">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.99962302613,49.136994088099 -122.999561168253,49.1368647527335 -122.999531338777,49.1367209846492 -122.999402295251,49.13672035926 -122.999167149271,49.1367272385402 -122.999016120552,49.1367147307574</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Red Line 2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_Line">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.997572310269,49.1381016850257 -122.997563080464,49.1382464857329 -122.997489763248,49.1384180371798 -122.997538817694,49.13851320645</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Red Line 3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_Line">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.999166742505,49.1330768763433 -122.998988514275,49.1330525960368 -122.998616543404,49.1329751282309 -122.99867294358,49.1328552172834 -122.998778956756,49.1326469262027 -122.998838659924,49.1325516546779 -122.999005093783,49.1325781381004 -122.999176803456,49.1326059031227 -122.999562758518,49.1326794208171 -122.999547950623,49.1327992191209 -122.999454021508,49.1328987974682 -122.999349391607,49.1329999315226 -122.99928184708,49.1330996643846 -122.999164742883,49.133077772451</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Red Line 4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_Line">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-123.0000761745,49.133340269554 -123.0000761745,49.133340269554 -123.0000761745,49.133340269554 -122.999323075852,49.1331178457791</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Red Line 5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_Line">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.99965255651,49.1338415748641 -123.000086634203,49.1333488242946</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Red Line 7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_Line">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.998934152953,49.1336095811066 -122.998934152953,49.1336095811066 -122.9991861424,49.1337086614326</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Red Line 8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_Line">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.998895699916,49.1335727206813 -122.998755715284,49.1335357955329 -122.998601707909,49.1335026238103 -122.99826746849,49.133378174372 -122.998394050303,49.1332662377112 -122.998474193779,49.1331061874824 -122.998591817058,49.1329755121694</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Red Line 9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_Line">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.998904516637,49.1335725858646 -122.999274091841,49.1331072783001</coordinates></LineString>
+  </Placemark>
+</Folder>
+<Folder><name>Blue_Point</name>
+  <Placemark>
+	<name>Ensatina</name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 7:39 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.521192935623,49.2747128555189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina</name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 7:44 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.521595859379,49.2748579753971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina </name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 7:50 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.52231697351,49.274817398665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina</name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.522411036463,49.274849796187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwest Salamander </name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 8:28 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.524233076763,49.2735213981937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coastal Tailed</name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 8:39 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.525436786327,49.2726580533001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina </name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 8:45 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.526562162912,49.2726747727593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coastal Tailed Male</name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 9:00 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.526917233157,49.2728580794665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwest Salamander </name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 9:42 PM</SimpleData>
+		<SimpleData name="Field_1">Roadside</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.530952465417,49.2731622173246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina </name>
+	<ExtendedData><SchemaData schemaUrl="#Blue_Point">
+		<SimpleData name="Field_2">Nov 5, 2021 at 10:35 PM</SimpleData>
+		<SimpleData name="Field_1">On road</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.51870286468,49.2751055298406</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Green_Point</name>
+  <Placemark>
+	<name>Northwest salamander </name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">Oct 28, 2021 at 6:40 PM</SimpleData>
+		<SimpleData name="Field_1">Start temp 11 Steady rain</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.517148284727,49.2760031314933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwest Salamander </name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">Oct 28, 2021 at 7:06 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.52183807864,49.2748646934109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dead Longtoed Salamander </name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">Oct 28, 2021 at 7:28 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.524459007754,49.2733751157264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coastal Tailed Frog</name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">Oct 28, 2021 at 7:47 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.526958952734,49.2727112743571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Red back </name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">Oct 28, 2021 at 8:00 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.527836874003,49.2732200221648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina</name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">Oct 28, 2021 at 8:12 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.52960207737,49.2739631170891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 Western Redback </name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.530285506234,49.2738256462144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina</name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">Oct 28, 2021 at 8:48 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.533519724213,49.2725578328514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heard Tree Frogs</name>
+	<ExtendedData><SchemaData schemaUrl="#Green_Point">
+		<SimpleData name="Field_2">Oct 28, 2021 at 9:05 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.530951903922,49.2732301634865</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Purple_Point</name>
+  <Placemark>
+	<name>Juv Northwestern </name>
+	<ExtendedData><SchemaData schemaUrl="#Purple_Point">
+		<SimpleData name="Field_2">Nov 12, 2021 at 6:58 PM</SimpleData>
+		<SimpleData name="Field_1">Roadside</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.517939923346,49.2752941642589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina </name>
+	<ExtendedData><SchemaData schemaUrl="#Purple_Point">
+		<SimpleData name="Field_2">Nov 12, 2021 at 7:15 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.521410213821,49.2747473241231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina </name>
+	<ExtendedData><SchemaData schemaUrl="#Purple_Point">
+		<SimpleData name="Field_2">Nov 12, 2021 at 7:59 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.529648873891,49.273840420734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina</name>
+	<ExtendedData><SchemaData schemaUrl="#Purple_Point">
+		<SimpleData name="Field_2">Nov 12, 2021 at 9:13 PM</SimpleData>
+		<SimpleData name="Field_1">Roadside</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.526116925776,49.2729334255089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Redback </name>
+	<ExtendedData><SchemaData schemaUrl="#Purple_Point">
+		<SimpleData name="Field_2">Nov 12, 2021 at 9:16 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.526536051711,49.2729501745706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina </name>
+	<ExtendedData><SchemaData schemaUrl="#Purple_Point">
+		<SimpleData name="Field_2">Nov 12, 2021 at 9:18 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.526324836827,49.2725617196297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ensatina </name>
+	<ExtendedData><SchemaData schemaUrl="#Purple_Point">
+		<SimpleData name="Field_2">Nov 12, 2021 at 9:52 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.520840677535,49.274833596076</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Dashed_Line</name>
+</Folder>
+<Folder><name>Planned_Route</name>
+  <Placemark>
+	<name>Planned Route 1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Planned_Route">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="Field_2">N/A</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-123.000223566363,49.1332707829927 -123.000223566363,49.1332707829927 -122.999989015564,49.133207590655 -122.999812524494,49.1331591963609 -122.999406794466,49.1330688583426</coordinates></LineString>
+  </Placemark>
+</Folder>
+<Folder><name>Orange_Point</name>
+  <Placemark>
+	<name>Western Toad </name>
+	<ExtendedData><SchemaData schemaUrl="#Orange_Point">
+		<SimpleData name="Field_2">Mar 11, 2022 at 8:12 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.534412143421,49.2727104843334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwest Salamander </name>
+	<ExtendedData><SchemaData schemaUrl="#Orange_Point">
+		<SimpleData name="Field_2">Mar 11, 2022 at 9:08 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.525903984921,49.2727590586809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pacific Treefrog</name>
+	<ExtendedData><SchemaData schemaUrl="#Orange_Point">
+		<SimpleData name="Field_2">Mar 11, 2022 at 6:25 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.521262093892,49.2748746035761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pacific Treefrog</name>
+	<ExtendedData><SchemaData schemaUrl="#Orange_Point">
+		<SimpleData name="Field_2">Mar 11, 2022 at 6:38 PM</SimpleData>
+		<SimpleData name="Field_1">N/A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.52229255198,49.2748714306785</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="Red_Line" id="Red_Line">
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="Field_2" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Schema name="Blue_Point" id="Blue_Point">
+	<SimpleField name="Field_2" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Schema name="Green_Point" id="Green_Point">
+	<SimpleField name="Field_2" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Schema name="Purple_Point" id="Purple_Point">
+	<SimpleField name="Field_2" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Schema name="Planned_Route" id="Planned_Route">
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="Field_2" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Schema name="Orange_Point" id="Orange_Point">
+	<SimpleField name="Field_2" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+</Document></kml>
