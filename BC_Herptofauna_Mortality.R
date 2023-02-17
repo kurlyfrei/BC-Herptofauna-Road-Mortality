@@ -1,6 +1,6 @@
 #=============================================================
 ##############################################################
-# Producing Interactive Map of BC Herptefauna Road Mortality in R
+# Producing Interactive Map of BC Herptofauna Road Mortality in R
 # # 
 # Date: February 16, 2023
 # Author: Kurt D.Frei, MSc. RPBio. 
